@@ -1,2 +1,5 @@
 Titulo: 50 sombras git
 Autor:GitHub
+
+Capitulo2
+grey es un millonario
