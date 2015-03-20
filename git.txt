@@ -1,5 +1,13 @@
 Titulo: 50 sombras git
 Autor:GitHub
 
+
+Capitulo1
+Erase una vez
+Erase otra vez
+
+
 Capitulo2
 grey es un millonario
+
+
