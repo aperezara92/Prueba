@@ -1,2 +1,5 @@
 Titulo: 50 sombras git
 Autor:GitHub
+
+Capitulo1
+Erase una vez
